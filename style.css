@@ -1,0 +1,43 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin: 5em;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.card__header{
+    position: relative;
+}
+
+.card__name{
+    position: absolute;
+    bottom: 20px;
+    line-height: 0.5;
+    padding: 1em;
+}
+
+.card__content{
+    padding-left: 1em;
+    line-height: 1.6;
+}
+
+.card__footer{
+    display: flex;
+    padding: 0.2em;
+}
+
+.card__option{
+    margin-left: auto;
+}
