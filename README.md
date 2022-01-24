@@ -8,4 +8,4 @@ This is where we convert this:
 
 to this:
 
-<img width="275" alt="Screenshot 2022-01-24 005217" src="https://user-images.githubusercontent.com/59335572/150694942-e4a6b23d-d968-4147-b8c0-0d9848f304a5.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/59335572/150758072-1fba0bc2-c162-4a0d-abb4-c3f8f9ef5e4c.png">
